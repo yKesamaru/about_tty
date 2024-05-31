@@ -8,7 +8,7 @@
 
 記事の終わりに参考文献リストを載せています。そちらをみていただければ日本語*入力*まで行うことができるでしょう。わたしには必要ないので、今回の記事では日本語表示できるようにするまでを扱います。
 
-![](https://raw.githubusercontent.com/yKesamaru/about_tty/master/assets/eye-catch.png)
+![](assets/eye-catch.png)
 
 ## 環境
 ```bash
