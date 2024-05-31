@@ -8,6 +8,8 @@
 
 記事の終わりに参考文献リストを載せています。そちらをみていただければ日本語*入力*まで行うことができるでしょう。わたしには必要ないので、今回の記事では日本語表示できるようにするまでを扱います。
 
+![](https://raw.githubusercontent.com/yKesamaru/about_tty/master/assets/eye-catch.png)
+
 ## 環境
 ```bash
 $ inxi -Sxxx --filter
@@ -27,7 +29,7 @@ System:
 > ちなみにX Window Systemの起動中はXが端末を1つ専有します。つまり普通は仮想コンソールを1つ使うことになるでしょう。おそらくtty7が使われているはずです。
 > 参考：青木 蜂郎. *ふつうのLinuxプログラミング*. ソフトバンククリエイティブ, 2005, pp. 63-65.
 
-![Teletype Model 33, wikipedia](assets/2024-05-31-08-21-49.png)
+![Teletype Model 33, wikipedia](https://raw.githubusercontent.com/yKesamaru/about_tty/master/assets/2024-05-31-08-21-49.png)
 
 Ubuntuも以前のバージョンでは`tty7`を使っていましたが、現在は`tty1, 2`です。`systemd`の導入からここらへんが変化したようです。
 
